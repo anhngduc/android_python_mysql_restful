@@ -1,3 +1,3 @@
 wow
 it's here:
-https://github.com/anhngduc/Android_html_post.get.git
+https://github.com/anhngduc/barcode-reader.git
